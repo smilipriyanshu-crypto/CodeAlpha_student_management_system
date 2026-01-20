@@ -29,11 +29,11 @@ This project is developed as part of the Code Alpha Internship.
 0. Exit
 Enter your choice: 1
 
-Enter Roll Number: 101
-Enter Name: Shruti
-Enter Course: B.Tech
-Enter Marks: 89.5
-Student added successfully!
+- Enter Roll Number: 101
+- Enter Name: Priyanshu
+- Enter Course: MCA
+- Enter Marks: 89.5
+- Student added successfully!
 
 
 --- Student Management System ---
@@ -45,10 +45,10 @@ Student added successfully!
 0. Exit
 Enter your choice: 2
 
-Roll: 101
-Name: Shruti
-Course: B.Tech
-Marks: 89.5
+- Roll: 101
+- Name: Priyanshu
+- Course: MCA
+- Marks: 89.5
 
 
 --- Student Management System ---
@@ -60,12 +60,12 @@ Marks: 89.5
 0. Exit
 Enter your choice: 3
 
-Enter Roll Number to search: 101
-Student Found:
-Roll: 101
-Name: Shruti
-Course: B.Tech
-Marks: 89.5
+- Enter Roll Number to search: 101
+- Student Found:
+- Roll: 101
+- Name: Priyanshu
+- Course: MCA
+- Marks: 89.5
 
 
 --- Student Management System ---
@@ -75,8 +75,8 @@ Marks: 89.5
 4. Update Student
 5. Delete Student
 0. Exit
-Enter your choice: 0
-Exiting program...
+- Enter your choice: 0
+- Exiting program...
 
 ## How to run
 - compile using gcc student_management.c -o student_management
