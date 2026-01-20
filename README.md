@@ -19,7 +19,7 @@ This project is developed as part of the Code Alpha Internship.
 - File Handling
 
 ## How to run
-- compile using (gcc student_management.c -o student_management)
-- Run in terminal .(/student_management)
+- compile using gcc student_management.c -o student_management
+- Run in terminal /student_management
 
-git clone 
+git clone https://smilipriyanshu-crypto.github.io/CodeAlpha_student_management_system/
