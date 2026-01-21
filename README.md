@@ -82,4 +82,4 @@ Enter your choice: 3
 - compile using gcc student_management.c -o student_management
 - Run in terminal /student_management
 
-git clone https://smilipriyanshu-crypto.github.io/CodeAlpha_student_management_system/
+git clone https://github.com/smilipriyanshu-crypto/CodeAlpha_student_management_system.git
